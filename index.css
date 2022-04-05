@@ -1,0 +1,54 @@
+body {
+
+    background-color: aqua;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    background-image: url(tlo.gif);
+    background-size:100% 100%;
+
+}
+header {
+    width:100%;
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+}
+
+#gora {
+    width: 450px;
+    font-size: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+li {
+
+    width: 24%;
+    padding: 10px 0;
+    background-color: #c34f4f;
+    text-align: center;
+    border-top: 1px solid #751b1b;
+    border-bottom: 1px solid #751b1b;
+    display: inline-block;
+    list-style-type: none;
+}
+
+#obraz {
+    width: 450px;
+    font-size: 48px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    padding-top: 10px;
+}
+iframe {
+    width:100%;
+    text-align: center;
+    background-color: #292929;
+    
+}
